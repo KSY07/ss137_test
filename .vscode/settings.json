@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "system_error": "cpp",
+        "ss137_lib.h": "c",
+        "constant.h": "c",
+        "structs.h": "c",
+        "types.h": "c",
+        "server.h": "c",
+        "iosfwd": "c"
+    }
+}
